@@ -22,9 +22,9 @@ I am currently working as an AI Engineer for **HI Ibiera**, where I develop and 
 - Creating datasets and models for **marine environmental monitoring**.
 
 ### 📫 Get in Touch:
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-almansa/) or [email](mailto:jtafernandez@gmail.com).
+Feel free to reach out through [LinkedIn](linkedin.com/in/jesusalmansaf/) or [email](mailto:jtafernandez@gmail.com).
 
 ### 📊 GitHub Stats:
 
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesus-Almansa&show_icons=true&theme=dark)
-![My project image](https://github.com/Jesus-Almansa/repo-name/blob/main/images/image.png)
+<!-- ![My project image](https://github.com/Jesus-Almansa/repo-name/blob/main/images/image.png) -->
