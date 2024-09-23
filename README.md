@@ -23,7 +23,7 @@ I am currently working as an AI Engineer for **HI Ibiera**, where I develop and 
 
 ### 📫 Get in Touch:
 Feel free to reach out through.
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/jesusalmansaf/" target="_blank">
     <img src="https://img.shields.io/badge/Find%20me%20on%20LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
   </a>
