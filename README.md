@@ -22,7 +22,16 @@ I am currently working as an AI Engineer for **HI Ibiera**, where I develop and 
 - Creating datasets and models for **marine environmental monitoring**.
 
 ### 📫 Get in Touch:
-Feel free to reach out through [LinkedIn](linkedin.com/in/jesusalmansaf/) or [email](mailto:jtafernandez@gmail.com).
+Feel free to reach out through.
+<p align="center">
+  <a href="https://linkedin.com/in/jesusalmansaf/" target="_blank">
+    <img src="https://img.shields.io/badge/Find%20me%20on%20LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:jtafernandez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20eMail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
+
 
 ### 📊 GitHub Stats:
 
