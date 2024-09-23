@@ -1,6 +1,10 @@
 ## 👋 Hello, I'm Jesús Almansa
 
-I am a passionate Artificial Intelligence Engineer with a background in **Data Analysis** and **Machine Learning**, working on **satellite image analysis** and **anomaly detection** for **marine platforms**.
+I'm an Industrial Electronics and Automation Engineer graduated from the Polytechnic University of Valencia, and I hold a Master's in Artificial Intelligence from the International University of La Rioja. Currently, I work as an AI Engineer at HI Iberia, where I develop innovative solutions using machine learning and deep learning to tackle complex challenges, such as detecting anomalies in offshore wind platforms and land change detection with satellite image analysis.
+
+I also have experience in developing virtual reality tools at Simumatik, where I contributed to the creation of virtual industrial commissioning environments. I had the opportunity to complete my final degree project with this company, which you can check out here [My Final Degree Project](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1444434&dswid=-8880).
+
+Throughout my career, I've worked in cybersecurity, which has allowed me to effectively integrate data, AI, and security knowledge to optimize decision-making in increasingly complex digital environments.
 
 ### 🧠 My Expertise:
 - **Artificial Intelligence & Machine Learning**: Deep Learning, Transformers, RNN, LSTM
@@ -18,7 +22,7 @@ I am currently working as an AI Engineer for **HI Ibiera**, where I develop and 
 - Creating datasets and models for **marine environmental monitoring**.
 
 ### 📫 Get in Touch:
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-almansa/) or [email](mailto:jesusalmansa@gmail.com).
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-almansa/) or [email](mailto:jtafernandez@gmail.com).
 
 ### 📊 GitHub Stats:
 
