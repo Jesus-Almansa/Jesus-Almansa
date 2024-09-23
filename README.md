@@ -23,3 +23,4 @@ Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs
 ### 📊 GitHub Stats:
 
 ![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesus-Almansa&show_icons=true&theme=dark)
+![My project image](https://github.com/Jesus-Almansa/repo-name/blob/main/images/image.png)
