@@ -2,11 +2,14 @@
 
 ## 👋 Hello, I'm Jesús Almansa
 
-I'm an Industrial Electronics and Automation Engineer graduated from the Polytechnic University of Valencia, and I hold a Master's in Artificial Intelligence from the International University of La Rioja. Currently, I work as an AI Engineer at HI Iberia, where I develop innovative solutions using machine learning and deep learning to tackle complex challenges, such as detecting anomalies in offshore wind platforms and land change detection with satellite image analysis.
+I'm an Industrial Electronics and Automation Engineer graduated from the Polytechnic University of Valencia, and I hold a Master's in Artificial Intelligence from the International University of La Rioja. Recently, I have enrolled in a remote Computer Science degree to further expand my technical knowledge and skills.
 
-I also have experience in developing virtual reality tools at Simumatik, where I contributed to the creation of virtual industrial commissioning environments. I had the opportunity to complete my final degree project with this company, which you can check out here [Virtual Commissioning with Virtual Reality](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1444434&dswid=-8880).
+Currently, I am actively looking for new opportunities in the field of **Artificial Intelligence, Machine Learning, and Data Science**, where I can apply my experience in **anomaly detection, satellite image analysis, and deep learning**.
 
-Throughout my career, I've worked in cybersecurity, which has allowed me to effectively integrate data, AI, and security knowledge to optimize decision-making in increasingly complex digital environments.
+I have experience developing virtual reality tools at Simumatik, contributing to the creation of virtual industrial commissioning environments. My final degree project was completed with this company, which you can check out here: [Virtual Commissioning with Virtual Reality](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1444434&dswid=-8880).
+
+Additionally, my background in **cybersecurity** has allowed me to integrate data science and security, optimizing decision-making in complex digital environments.
+
 
 ### 🧠 My Expertise:
 - **Artificial Intelligence & Machine Learning**: 
@@ -38,29 +41,29 @@ Throughout my career, I've worked in cybersecurity, which has allowed me to effe
   - **Kubernetes**: Experience in orchestrating containerized applications using **Kubernetes**, deploying scalable and resilient AI systems in distributed environments.
   - Implemented **CI/CD pipelines** with Docker and Kubernetes to streamline development and deployment processes for machine learning models.
 
-
-### 💼 Current Role:
-I am currently working as an AI Engineer for **HI Ibiera**, where I develop and deploy advanced algorithms for **satellite image analysis** and **offshore platform monitoring**. My role involves improving the detection of terrain changes and identifying potential anomalies in marine wind farms.
-
 ### 🛠 What I’m Working On:
 - Building **intelligent systems** for anomaly detection in satellite images.
 - Exploring new applications of **Transformers** in sequential data modeling.
 - Creating datasets and models for **marine environmental monitoring**.
 - Diving into **LLM** to create a very light version of ChatGPT to develop understanding on the topic
 
-### 📚 University Projects:
-- **[Virtual Commissioning with Virtual Reality](https://riunet.upv.es/handle/10251/147929?show=full)**: Developed tools in **Virtual Reality** to simulate and optimize industrial commissioning processes at **Simumatik**.
-- **[Satellite Image Analysis for Anomaly Detection]**: Built models using **deep learning** techniques to detect anomalies in satellite images for land change monitoring.
+### 🎓 Ongoing Education:
+- **Computer Science Degree (Remote)**: Expanding my knowledge in **software engineering, algorithms, and computer systems** to complement my AI expertise.  
 
-### 💻 Bootcamp Projects:
-- **[Customer Churn Prediction]**: Developed a machine learning model to predict customer churn using **Python**, **scikit-learn**, and **Pandas** during my **Ironhack Bootcamp**.
-- **[Sales Forecasting Project]**: Created a forecasting model using **time-series analysis** to predict sales trends.
-- **[Movie Recommendation System]**: Built a recommendation system using **collaborative filtering** and **content-based filtering** for a streaming service dataset.
+### 🎓 Bootcamp & University Projects:
+- **[Virtual Commissioning with Virtual Reality](https://riunet.upv.es/handle/10251/147929?show=full)**: Developed VR tools for industrial simulations.  
+- **[Satellite Image Analysis for Anomaly Detection]**: Built deep learning models for land change monitoring.  
+- **[Customer Churn Prediction]**: Applied ML to forecast customer churn during my **Ironhack Bootcamp**.  
+- **[Movie Recommendation System]**: Developed a collaborative and content-based filtering system.  
 
 ### ⚙️ Personal Projects:
-- **[Marine Wind Platform Anomaly Detection]**: Developed an anomaly detection system using **sensor data** from marine wind platforms to detect operational issues.
-- **[Image Classification with CNNs]**: Built a **Convolutional Neural Network (CNN)** to classify images from the **CIFAR-10** dataset.
-- **[NLP Sentiment Analysis]**: Applied **NLP techniques** to analyze and predict the sentiment of movie reviews.
+- **[Marine Wind Platform Anomaly Detection]**: Built real-time models for monitoring offshore wind farms.  
+- **[CNN-Based Image Classification]**: Developed a deep learning model using **CIFAR-10** dataset.  
+- **[NLP Sentiment Analysis]**: Applied natural language processing to analyze and classify sentiments.  
+- **[Telegram Bot Development]**: Created a Telegram bot for automated responses and integrations.  
+- **[Rebranding of Transportes Fernández]**: Developed a complete rebranding project, including a fully functional **React-based website**.  
+- **[Containerized Applications with Docker]**: Series of projects focusing on **containerization**, improving deployment and scalability using **Docker** and **Kubernetes**.
+
 
 ### 📫 Get in Touch:
 Feel free to reach out through.
