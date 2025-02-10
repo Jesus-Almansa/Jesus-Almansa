@@ -56,6 +56,30 @@ Additionally, my background in **cybersecurity** has allowed me to integrate dat
 - **[Customer Churn Prediction]**: Applied ML to forecast customer churn during my **Ironhack Bootcamp**.  
 - **[Movie Recommendation System]**: Developed a collaborative and content-based filtering system.  
 
+### 🎓 Master’s Thesis:  
+**[Title of Your TFM]**  
+📄 [Read the full document](./TFM.pdf)  
+
+In my Master's Thesis, I focused on **[breve resumen de tu TFM]**, developing **[técnicas o tecnologías clave utilizadas]**. This research contributes to **[impacto del trabajo o aplicación práctica]**.  
+
+### 🎓 Ongoing Education:
+- **Computer Science Degree (Remote)**: Expanding my knowledge in **software engineering, algorithms, and computer systems** to complement my AI expertise.
+
+### 🎓 Master’s Thesis:  
+**[Land Change Detection using Deep Learning](./ruta-al-archivo.pdf)**  
+📄 [Read the full document](./ruta-al-archivo.pdf)  
+
+My Master's Thesis focused on detecting **land changes** using **deep learning techniques** applied to **satellite imagery**. I developed a model that identifies and classifies environmental changes over time, leveraging **Convolutional Neural Networks (CNNs)** and **Transformers** for feature extraction and anomaly detection. The study aimed to improve the accuracy of monitoring urban expansion, deforestation, and natural disasters.  
+
+#### 🛠 Technologies & Tools:  
+- **Deep Learning** (CNNs, Transformers)  
+- **Satellite Image Processing**  
+- **Python, TensorFlow, PyTorch**  
+- **Geospatial Data Analysis**  
+
+🚀 The complete document is available **[here](./TFM.pdf)**.
+
+
 ### ⚙️ Personal Projects:
 - **[Marine Wind Platform Anomaly Detection]**: Built real-time models for monitoring offshore wind farms.  
 - **[CNN-Based Image Classification]**: Developed a deep learning model using **CIFAR-10** dataset.  
