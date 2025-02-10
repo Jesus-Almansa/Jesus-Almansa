@@ -53,9 +53,6 @@ Additionally, my background in **cybersecurity** has allowed me to integrate dat
 - **[Customer Churn Prediction]**: Applied ML to forecast customer churn during my **Ironhack Bootcamp**.  
 - **[Movie Recommendation System]**: Developed a collaborative and content-based filtering system.  
 
-### 🎓 Ongoing Education:
-- **Computer Science Degree (Remote)**: Expanding my knowledge in **software engineering, algorithms, and computer systems** to complement my AI expertise.
-
 ### 🎓 Master’s Thesis:  
 **[Land Change Detection using Deep Learning](./TFM.pdf)**  
 
@@ -65,7 +62,11 @@ My Master's Thesis focused on detecting **land changes** using **deep learning t
 - **Deep Learning** (CNNs, Transformers)  
 - **Satellite Image Processing**  
 - **Python, TensorFlow, PyTorch**  
-- **Geospatial Data Analysis**  
+- **Geospatial Data Analysis** 
+
+### 🎓 Ongoing Education:
+- **Computer Science Degree (Remote)**: Expanding my knowledge in **software engineering, algorithms, and computer systems** to complement my AI expertise.
+ 
 
 ### ⚙️ Personal Projects:
 - **[Marine Wind Platform Anomaly Detection]**: Built real-time models for monitoring offshore wind farms.  
